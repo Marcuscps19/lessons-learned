@@ -4,6 +4,8 @@ Este projeto foi desenvolvido durante o curso de desenvolvimento web da [Trybe](
 
 Este projeto foi finalizado em **02/03/2021**
 
+## Visualize o projeto nesse link: [Lessons Learned](https://marcuscps19.github.io/lessons-learned/)
+
 ### Descrição:
 Desenvolvimento de uma página HTML estilizada com CSS.
 
